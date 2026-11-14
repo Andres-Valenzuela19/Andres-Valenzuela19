@@ -30,7 +30,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://imgur.com/dL6GH6p.png" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://imgur.com/FO4yutF.png" alt="java" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+    </a> 
 </p>
 
 # Hola soy Andres Valenzuela
