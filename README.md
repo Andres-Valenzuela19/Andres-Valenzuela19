@@ -8,4 +8,5 @@
 ##Habilidades tecnicas 🛠️
 -**Lenguajes:python, java , HTML
 -**Sistemas operativos:Windows, Linux (Basico)
--#Como contactarme 📨:acruz0825@bc.conalep.edu.mx
+
+#Como contactarme 📨:acruz0825@bc.conalep.edu.mx
